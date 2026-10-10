@@ -1,0 +1,44 @@
+[
+    {
+        "id": 101,
+        "name": "Keyboard",
+        "quantity": 4,
+        "price": 799.0,
+        "recorderlevel": 10
+    },
+    {
+        "id": 102,
+        "name": "Mouse",
+        "quantity": 15,
+        "price": 499.0,
+        "recorderlevel": 5
+    },
+    {
+        "id": 103,
+        "name": "Monitor",
+        "quantity": 3,
+        "price": 8500.0,
+        "recorderlevel": 5
+    },
+    {
+        "id": 104,
+        "name": "USB Cable",
+        "quantity": 20,
+        "price": 150.0,
+        "recorderlevel": 10
+    },
+    {
+        "id": 105,
+        "name": "Headphones",
+        "quantity": 6,
+        "price": 1200.0,
+        "recorderlevel": 8
+    },
+    {
+        "id": 8,
+        "name": "Mobile",
+        "quantity": 20,
+        "price": 75000.0,
+        "recorderlevel": 25
+    }
+]
